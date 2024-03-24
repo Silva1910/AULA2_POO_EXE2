@@ -9,4 +9,4 @@ Este projeto foi criado com o objetivo de implementar a modelagem disponibilizad
 
 ### Tecnologias Utilizadas
 
-- Java [17]
+- Java [jdk 17]
